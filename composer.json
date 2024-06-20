@@ -61,7 +61,6 @@
             "database/model-factories"
         ]
     },
-    "minimum-stability": "dev",
     "prefer-stable": true,
     "repositories": [
         {
