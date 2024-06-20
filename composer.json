@@ -50,8 +50,7 @@
             "Just\\Warehouse\\": "src"
         }
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
+    "minimum-stability": "stable",
     "autoload-dev": {
         "psr-4": {
             "Just\\Warehouse\\Tests\\": "tests"
