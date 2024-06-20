@@ -12,7 +12,7 @@
 You can install the package via composer:
 
 ```bash
-composer require mvdnbrk/warehouse-framework
+composer require devsohail/warehouse-framework
 ```
 
 Run the install command:
