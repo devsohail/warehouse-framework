@@ -72,10 +72,6 @@
         {
             "type": "vcs",
             "url": "https://github.com/devsohail/laravel-model-expires"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/devsohail/warehouse-framework"
         }
     ],
     "scripts": {
