@@ -237,23 +237,9 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Mark van den Broek][link-author]
+- [Sohail Sajid][link-author]
 - [All Contributors][link-contributors]
 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-[ico-php-version]: https://img.shields.io/packagist/php-v/mvdnbrk/warehouse-framework?style=flat-square
-[ico-version]: https://img.shields.io/packagist/v/mvdnbrk/warehouse-framework.svg?style=flat-square
-[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-tests]: https://img.shields.io/github/workflow/status/mvdnbrk/warehouse-framework/tests/main?label=tests&style=flat-square
-[ico-code-style]: https://styleci.io/repos/183472123/shield?branch=main
-[ico-downloads]: https://img.shields.io/packagist/dt/mvdnbrk/warehouse-framework.svg?style=flat-square
-
-[link-packagist]: https://packagist.org/packages/mvdnbrk/warehouse-framework
-[link-tests]: https://github.com/mvdnbrk/warehouse-framework/actions?query=workflow%3Atests
-[link-code-style]: https://styleci.io/repos/183472123
-[link-downloads]: https://packagist.org/packages/mvdnbrk/warehouse-framework
-[link-author]: https://github.com/mvdnbrk
-[link-contributors]: ../../contributors

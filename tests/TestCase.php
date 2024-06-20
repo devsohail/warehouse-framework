@@ -4,8 +4,8 @@ namespace Just\Warehouse\Tests;
 
 use Illuminate\Support\Facades\DB;
 use Just\Warehouse\WarehouseServiceProvider;
-use Mvdnbrk\EloquentExpirable\ExpirableServiceProvider;
-use Mvdnbrk\Gtin\GtinServiceProvider;
+use Devsohail\EloquentExpirable\ExpirableServiceProvider;
+use Devsohial\Gtin\GtinServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 abstract class TestCase extends Orchestra
