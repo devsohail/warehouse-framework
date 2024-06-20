@@ -23,8 +23,8 @@
         "illuminate/database": "^9.0 || ^10.0",
         "illuminate/queue": "^9.0 || ^10.0",
         "illuminate/support": "^9.0 || ^10.0",
-        "devsohail/gtin": "^2.10",
-        "devsohail/laravel-model-expires": "^1.10",
+        "devsohail/gtin": "dev-gtin",
+        "devsohail/laravel-model-expires": "dev-modexp",
         "spatie/laravel-model-states": "^2.2",
         "staudenmeir/eloquent-has-many-deep": "^1.15"
     },
@@ -40,7 +40,9 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "main"
+            "dev-master": "main",
+            "dev-gtin": "main",
+            "dev-modexp": "main"
         },
         "laravel": {
             "providers": [
