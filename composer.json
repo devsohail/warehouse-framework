@@ -39,6 +39,9 @@
         "sort-packages": true
     },
     "extra": {
+        "branch-alias": {
+            "dev-master": "main"
+        },
         "laravel": {
             "providers": [
                 "Just\\Warehouse\\WarehouseServiceProvider"
@@ -50,7 +53,6 @@
             "Just\\Warehouse\\": "src"
         }
     },
-    "minimum-stability": "stable",
     "autoload-dev": {
         "psr-4": {
             "Just\\Warehouse\\Tests\\": "tests"
@@ -59,7 +61,22 @@
             "database/model-factories"
         ]
     },
-  
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/devsohail/gtin"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/devsohail/laravel-model-expires"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/devsohail/warehouse-framework"
+        }
+    ],
     "scripts": {
         "test": "vendor/bin/phpunit"
     }
