@@ -40,7 +40,6 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "main",
             "dev-gtin": "main",
             "dev-modexp": "main"
         },
