@@ -39,9 +39,6 @@
         "sort-packages": true
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "1.x-dev"
-        },
         "laravel": {
             "providers": [
                 "Just\\Warehouse\\WarehouseServiceProvider"
@@ -53,6 +50,8 @@
             "Just\\Warehouse\\": "src"
         }
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload-dev": {
         "psr-4": {
             "Just\\Warehouse\\Tests\\": "tests"
