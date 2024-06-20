@@ -61,21 +61,7 @@
             "database/model-factories"
         ]
     },
-    "prefer-stable": true,
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/devsohail/gtin"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/devsohail/laravel-model-expires"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/devsohail/warehouse-framework"
-        }
-    ],
+  
     "scripts": {
         "test": "vendor/bin/phpunit"
     }
