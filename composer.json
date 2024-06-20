@@ -1,5 +1,5 @@
 {
-    "name": "mvdnbrk/warehouse-framework",
+    "name": "devsohail/warehouse-framework",
     "description": "Laravel Warehouse Framework",
     "keywords": [
         "wms",
@@ -7,7 +7,7 @@
         "warehouse",
         "warehouse management system"
     ],
-    "homepage": "https://github.com/mvdnbrk/warehouse-framework",
+    "homepage": "https://github.com/devsohail/warehouse-framework",
     "license": "MIT",
     "authors": [
         {
@@ -18,11 +18,11 @@
     ],
     "require": {
         "php": "^8.1 || ^8.2 || ^8.3",
-        "illuminate/console": "^9.0 || ^10.0",
-        "illuminate/contracts": "^9.0 || ^10.0",
-        "illuminate/database": "^9.0 || ^10.0",
-        "illuminate/queue": "^9.0 || ^10.0",
-        "illuminate/support": "^9.0 || ^10.0",
+        "illuminate/console": "^9.0 || ^10.0 || ^11.0",
+        "illuminate/contracts": "^9.0 || ^10.0 || ^11.0",
+        "illuminate/database": "^9.0 || ^10.0 || ^11.0",
+        "illuminate/queue": "^9.0 || ^10.0 || ^11.0",
+        "illuminate/support": "^9.0 || ^10.0 || ^11.0",
         "mvdnbrk/gtin": "^2.7",
         "mvdnbrk/laravel-model-expires": "^1.8",
         "spatie/laravel-model-states": "^2.2",
