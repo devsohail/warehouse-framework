@@ -23,6 +23,8 @@
         "illuminate/database": "^9.0 || ^10.0",
         "illuminate/queue": "^9.0 || ^10.0",
         "illuminate/support": "^9.0 || ^10.0",
+        "devsohail/gtin": "dev-main",
+        "devsohail/laravel-model-expires": "dev-main",
         "spatie/laravel-model-states": "^2.2",
         "staudenmeir/eloquent-has-many-deep": "^1.15"
     },
@@ -37,10 +39,6 @@
         "sort-packages": true
     },
     "extra": {
-        "branch-alias": {
-            "dev-gtin": "main",
-            "dev-modexp": "main"
-        },
         "laravel": {
             "providers": [
                 "Just\\Warehouse\\WarehouseServiceProvider"
